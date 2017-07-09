@@ -1,0 +1,10 @@
+.button{
+    -fx-background-color: #2fd179;
+}
+.button:hover{
+    -fx-text-fill: whitesmoke;
+}
+.text-field{
+    -fx-background-color: blueviolet;
+    -fx-text-fill: blueviolet ;
+}
